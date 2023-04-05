@@ -14,8 +14,9 @@ network.py - the main code that makes use of the functions
 movies_data.csv - input data\
 run.out - output file\
 centrality_data - directory containing centralities (eigenvector, degree, closeness and betweenness) of the nodes in csv format\
+plots - directory containing plots
 *.html - interactive visuals of networks\
-*.png - images of the interactive visuals\
+*.png - images of the interactive visuals
 
 README.md - This file\
 LICENSE - GNU General Public License v3.0
