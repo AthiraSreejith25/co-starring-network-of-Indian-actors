@@ -20,3 +20,5 @@ __*.png__ - images of the interactive visuals
 
 **README.md** - This file\
 **LICENSE** - GNU General Public License v3.0
+
+Collaborator: [Sourav Suresh](https://github.com/Sourav-Suresh/)
