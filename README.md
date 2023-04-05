@@ -14,7 +14,7 @@ Contains codes, interactive visuals of networks, plots, data and report
 **movies_data.csv** - input data\
 **run.out** - output file\
 **centrality_data** - directory containing centralities (eigenvector, degree, closeness and betweenness) of the nodes in csv format\
-**plots** - directory containing plots
+**plots** - directory containing plots\
 __*.html__ - interactive visuals of networks\
 __*.png__ - images of the interactive visuals
 
